@@ -85,10 +85,10 @@ p {
 
 label.first-color {
   margin-left: 500px;
-  background-image: url("color1.jpg");
+  background-image: url("/color1.jpg");
 }
 label.color-2 {
-  background-image: url("color2.jpg");
+  background-image: url("./color2.jpg");
 }
 label.color-3 {
   background-image: url("color3.jpg");
